@@ -1,1 +1,5 @@
-Hello! I am Braden Kauderer and I'm part of the App Dev class at Deleware Area Career Center as a junior in high school. I enjoy programming as a hobby currently but am looknig into job opportunities now. You can contact me through bkauderer26@gmail.com.
+DACC Application Development Student
+Languages: HTML, CSS, C#
+Junior in High School
+Knowledgable with: Unity, Blender, Adobe Substance Painter, Photoshop
+Somewhat of a Plugin Developer for SCP:SL
